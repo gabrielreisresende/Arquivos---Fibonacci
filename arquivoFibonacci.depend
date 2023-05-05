@@ -1,5 +1,10 @@
 # depslib dependency file v1.0
-1682718542 source:c:\dev\codeblocks-c\arquivofibonacci\main.c
+1683249616 source:c:\dev\codeblocks-c\arquivofibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1683318788 source:c:\dev\codeblocks-c\fibonacci&arquivos\main.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
